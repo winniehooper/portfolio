@@ -11,7 +11,7 @@ font-family: "effra",sans-serif;
 }
 
 .name{
-	font-weight: 400;
+	font-weight: 300;
 	padding-left: 0px;
 }
 
@@ -51,6 +51,7 @@ h1{
 
 .links_line{
 	margin-left: 20px;
+	font-weight: 300;
 
 }
 
