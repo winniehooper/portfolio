@@ -69,16 +69,18 @@ p.title{
 	margin-top: 20px;
 }
 
-a{
+a.links_line{
+	padding-bottom: 13px;
 	text-decoration: none;
 	color: #fff;
 	line-height: 1.3em;
 }
 
-a:hover{
+a.links_line:hover{
 	text-decoration: none;
+	color: #fff;
 	border-bottom: 1px solid;
-	border-color: rgba(128, 128, 128, 1);
+	border-color: rgba(255, 255, 255, 1);
 }
 
 a.title {
