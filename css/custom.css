@@ -1,35 +1,50 @@
 /*Надстройка стилей*/
 body {
-margin-top:30px; 
-margin-bottom:80px; 
-color:#fff;
-background: #000008;
-font-size: 18px;
-font-weight: 400;
+margin-top:10px; 
+margin-bottom:30px; 
+color:#F4EBDD;
+background: #19191c;
+font-size: 17px;
 line-height: 1.5em;
-font-family: "effra",sans-serif;
+font-family: "BigCity Grotesque Pro-Regular 530-Web", sans-serif;
+}
+
+@font-face {
+  font-family: 'BigCity Grotesque Pro Regular 530';
+  src: url('../fonts/BigCity Grotesque Pro-Regular 530-Web.eot');
+	src: url('../fonts/BigCity Grotesque Pro-Regular 530-Web.eot#iefix') format('embedded-opentype'), 
+	url('../fonts/BigCity Grotesque Pro-Regular 530-Web.woff2') format('woff2'), 
+	url('../fonts/BigCity Grotesque Pro-Regular 530-Web.woff') format('woff'), 
+	url('../fonts/BigCity Grotesque Pro-Regular 530-Web.ttf') format('truetype'), 
+	url('../fonts/BigCity Grotesque Pro-Regular 530-Web.svg#font') format('svg');
+
+  font-weight: normal;
+  font-style: normal;
 }
 
 .name{
 	font-weight: 300;
-	padding-left: 0px;
+/*	padding-left: 0px;*/
+	display: inline;
 }
 
 .about{
-	margin-top: 20px;
+	/*margin-top: 20px;*/
 	/*height: 75vh;*/
 }
 
-
+.avatar{
+	width: 6%;
+	border-radius: 2px;
+/*	padding-top: 7px;*/
+}
 
 h1{
 	font-size: 48px;
-	font-weight: 400;
+	font-weight: 500;
+	line-height: 1.2em;
 }
 
-.h1{
-	padding: 0 0 0 0;
-}
 
 .work{
 	padding: 40px 30px 0;
@@ -46,7 +61,7 @@ h1{
 
 .item {
 	margin-bottom: 30px;
-	padding: 0 0 0 0;
+
 }
 
 .image {
@@ -75,10 +90,10 @@ p.title{
 }
 
 a.links_line{
-	padding-bottom: 13px;
+	padding-bottom: 16px;
 	text-decoration: none;
-	color: #fff;
 	line-height: 1.3em;
+	color: #F4EBDD;
 }
 
 a.links_line:hover{
@@ -90,11 +105,12 @@ a.links_line:hover{
 
 a.title {
 	text-decoration: none;
-	color: #fff;
-	font-size: 36px;
-	line-height: 1.3em;
+	color: #F4EBDD;
+	font-size: 23px;
+	line-height: 1.4em;
 	border-bottom: 1px solid;
-	border-color: rgba(128, 128, 128, 0.7);
+	border-color: rgba(128, 128, 128, 0.3);
+	padding-bottom: 3px;
 	
 }
 
@@ -111,18 +127,17 @@ img {
 
 .header{
 	border-bottom: 1px solid;
-	border-color: rgba(128, 128, 128, 0.4);
-
+	border-color: rgba(214, 216, 195, 0.13);
 }
 
-.navigator {
-	padding-bottom: 70px;
+.footer{
+	margin-top: 50px;
+	font-size: 15px;
+
 }
 
 #blog_link {
 	text-align: right;
 	float: right;
-	padding-right: 0px;
-
 }
 
