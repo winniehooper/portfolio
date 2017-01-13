@@ -2,7 +2,7 @@
 body {
 margin-top:10px; 
 margin-bottom:30px; 
-color:#AD9361;
+color:#fff5d2;
 background: #131212;
 font-size: 17px;
 line-height: 1.5em;
@@ -92,7 +92,7 @@ a.links_line{
 	padding-bottom: 16px;
 	text-decoration: none;
 	line-height: 1.3em;
-	color: #AD9361;
+	color: #fff5d2;
 }
 
 a.links_line:hover{
@@ -104,7 +104,7 @@ a.links_line:hover{
 
 a.title {
 	text-decoration: none;
-	color: #AD9361;
+	color: #fff5d2;
 	font-size: 23px;
 	line-height: 1.4em;
 	border-bottom: 1px solid;
