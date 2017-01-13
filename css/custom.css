@@ -6,11 +6,11 @@ color:#F4EBDD;
 background: #040305;
 font-size: 17px;
 line-height: 1.5em;
-font-family: "BigCity Grotesque Pro-Regular 530-Web", sans-serif;
+font-family: 'BigCity Grotesque Pro Regular 530-Web', sans-serif;
 }
 
 @font-face {
-  font-family: 'BigCity Grotesque Pro Regular 530';
+  font-family: 'BigCity Grotesque Pro Regular 530-Web';
   src: url('../fonts/BigCity/BigCity Grotesque Pro-Regular 530-Web.eot');
 	src: url('../fonts/BigCity/BigCity Grotesque Pro-Regular 530-Web.eot#iefix') format('embedded-opentype'), 
 	url('../fonts/BigCity/BigCity Grotesque Pro-Regular 530-Web.woff2') format('woff2'), 
