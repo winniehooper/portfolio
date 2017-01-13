@@ -2,8 +2,10 @@
 body {
 margin-top:10px; 
 margin-bottom:30px; 
-color:#131212;
-background: #fff;
+color:#F4EBDD;
+background: #131212;
+/*color:#131212;
+background: #fff;*/
 font-size: 17px;
 line-height: 1.5em;
 font-family: 'BigCity Grotesque Pro Regular 530-Web', sans-serif;
@@ -93,7 +95,7 @@ a.links_line{
 	padding-bottom: 16px;
 	text-decoration: none;
 	line-height: 1.3em;
-	color: #131212;
+	color: #F4EBDD;
 }
 
 a.links_line:hover{
@@ -105,7 +107,7 @@ a.links_line:hover{
 
 a.title {
 	text-decoration: none;
-	color: #131212;
+	color: #F4EBDD;
 	font-size: 23px;
 	line-height: 1.4em;
 	border-bottom: 1px solid;
