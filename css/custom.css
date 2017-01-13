@@ -3,7 +3,7 @@ body {
 margin-top:10px; 
 margin-bottom:30px; 
 color:#F4EBDD;
-background: #19191c;
+background: #040305;
 font-size: 17px;
 line-height: 1.5em;
 font-family: "BigCity Grotesque Pro-Regular 530-Web", sans-serif;
@@ -11,12 +11,12 @@ font-family: "BigCity Grotesque Pro-Regular 530-Web", sans-serif;
 
 @font-face {
   font-family: 'BigCity Grotesque Pro Regular 530';
-  src: url('../fonts/BigCity Grotesque Pro-Regular 530-Web.eot');
-	src: url('../fonts/BigCity Grotesque Pro-Regular 530-Web.eot#iefix') format('embedded-opentype'), 
-	url('../fonts/BigCity Grotesque Pro-Regular 530-Web.woff2') format('woff2'), 
-	url('../fonts/BigCity Grotesque Pro-Regular 530-Web.woff') format('woff'), 
-	url('../fonts/BigCity Grotesque Pro-Regular 530-Web.ttf') format('truetype'), 
-	url('../fonts/BigCity Grotesque Pro-Regular 530-Web.svg#font') format('svg');
+  src: url('../fonts/BigCity/BigCity Grotesque Pro-Regular 530-Web.eot');
+	src: url('../fonts/BigCity/BigCity Grotesque Pro-Regular 530-Web.eot#iefix') format('embedded-opentype'), 
+	url('../fonts/BigCity/BigCity Grotesque Pro-Regular 530-Web.woff2') format('woff2'), 
+	url('../fonts/BigCity/BigCity Grotesque Pro-Regular 530-Web.woff') format('woff'), 
+	url('../fonts/BigCity/BigCity Grotesque Pro-Regular 530-Web.ttf') format('truetype'), 
+	url('../fonts/BigCity/BigCity Grotesque Pro-Regular 530-Web.svg#font') format('svg');
 
   font-weight: normal;
   font-style: normal;
